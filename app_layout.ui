@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>640</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTextEdit" name="codeEditor">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>600</width>
+      <height>350</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="parseButton">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>370</y>
+      <width>100</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Parse Et</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="statusLabel">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>370</y>
+      <width>400</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string></string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar"/>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
