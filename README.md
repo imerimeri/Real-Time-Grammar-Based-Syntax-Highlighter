@@ -50,10 +50,6 @@ README.md            # This file
     - Demo video
     - Publicly shared article
 
-## How to Run
-```bash
-cd final_project_package
-python app_main.py
-```
+YouTube Video: https://studio.youtube.com/video/fliAJJHP_tA/edit
 
-Enjoy!
+
